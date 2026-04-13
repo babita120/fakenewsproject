@@ -16,4 +16,4 @@ if st.button("Check News"):
         st.error("🚨 Fake News")
     else:
         st.success("✅ Real News")
-        //k;oo
+        
